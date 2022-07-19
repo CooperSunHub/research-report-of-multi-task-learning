@@ -1,5 +1,5 @@
 # research-report-of-multi-task-learning
-These are the research reports written by myself when I was a research assistant in junior year of my college.
+These are the research reports written by myself when I was a research assistant in junior year at college.
 The topic is multi-task learning.
 You can read Readme.doc first. It is a content of these reports.
 
